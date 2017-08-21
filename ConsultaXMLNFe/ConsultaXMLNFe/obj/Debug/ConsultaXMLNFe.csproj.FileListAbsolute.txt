@@ -1,0 +1,12 @@
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\bin\Debug\ConsultaXMLNFe.exe.config
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\bin\Debug\ConsultaXMLNFe.exe
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\bin\Debug\ConsultaXMLNFe.pdb
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.csprojResolveAssemblyReference.cache
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.Form1.resources
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.Properties.Resources.resources
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.csproj.GenerateResource.Cache
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.exe
+D:\Projetos\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.pdb
+C:\Users\Impacto\Desktop\ConsultaXMLNFe\ConsultaXMLNFe\ConsultaXMLNFe\bin\Debug\ConsultaXMLNFe.exe.config
+C:\Users\Impacto\Desktop\ConsultaXMLNFe\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.exe
+C:\Users\Impacto\Desktop\ConsultaXMLNFe\ConsultaXMLNFe\ConsultaXMLNFe\obj\Debug\ConsultaXMLNFe.pdb
